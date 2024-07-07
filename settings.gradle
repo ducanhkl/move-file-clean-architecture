@@ -1,0 +1,3 @@
+rootProject.name = 'move-file-simple'
+include 'domain'
+
